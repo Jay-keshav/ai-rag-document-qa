@@ -43,10 +43,10 @@ PDF → Chunking → Embeddings → FAISS → Retrieval → LLM → Answer
 
 ## Example Query
 ### Query
-Summarize this document
+Summarize this document in a few sentences.
 
 ### Answer
-The document describes the Indus Valley Civilisation as an advanced urban society known for its organized city planning, sanitation systems, and strong trade networks. The economy was based on agriculture and trade, with standardized weights and measures ensuring consistency. The people were skilled in crafts such as pottery, metallurgy, and bead-making. Social life appears peaceful and well-structured, with no clear evidence of large palaces or temples. Although the script remains undeciphered, findings suggest nature and animal worship. Overall, the civilisation demonstrated strong practical knowledge and laid the foundation for later cultures in the Indian subcontinent.
+The precise construction of right angles may have used a method involving intersecting circles rather than the Pythagorean theorem. Summary • The Indus Valley Civilisation was a highly developed urban civilisation known for its city planning, sanitation, trade system, and practical knowledge . It laid the foundation for later cultures in the Indian subcontinent. with no clear signs of large palaces or temples. People wore cotton clothes and lived an organized urban life. 6. Script and Religion The Indus script is still undeciphered , so much of their beliefs remain unknown. However, seals suggest worship of nature, animals, and possibly early forms of Shiva (Pashupati) . 7. Mathematical Implications : The uniformity of weights and measures, along with sophisticated architecture and potential celestial navigation for trade, 3. Economy and Trade The people were mainly farmers and traders . They grew wheat, barley, cotton, and traded with distant regions like Mesopotamia . Standardized weights and measures were used for trade. 4. Technology and Crafts The civilisation was skilled in pottery, bead-making, metallurgy, and seal carving . Seals made of steatite were used for trade and identification. 5. Social Life and Culture Evidence suggests a peaceful society with no clear signs of large palaces
 
 ## Output Screenshot
 ![RAG Output](screenshot.png)
